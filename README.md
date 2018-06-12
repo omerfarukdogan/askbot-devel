@@ -1,3 +1,5 @@
+[![](https://codescene.io/projects/2946/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/2946/jobs/latest-successful/results)
+
 ====================================
 Askbot - a Django Q&A forum platform
 ====================================
